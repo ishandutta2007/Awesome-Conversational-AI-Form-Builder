@@ -1,46 +1,59 @@
-# Awesome-Conversational-AI-Form-Builder
+<div align="center">
 
-## Top Conversational AI & Form Builder Ecosystem
+![Conversational AI & Form Builders Banner](assets/banner.svg)
 
+# 💬 Awesome Conversational AI & Form Builder 🤖
 
+<p align="center">
+  <strong>Curated Directory of Top SaaS Platforms &amp; Open-Source Self-Hosted Conversational Form Builders</strong><br>
+  <em>Next-Generation Chat Forms, Lead Qualification Bots, Multi-Turn Surveys &amp; Visual Logic Automation</em>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Form-Builder?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Conversational-AI-Form-Builder?style=for-the-badge&color=10b981" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Conversational-AI-Form-Builder?style=for-the-badge&color=ef4444" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Chat-Style Forms, Lead Qualification & Visual Flow Automation*  
+---
 
-**Last updated: October 2026**
+</div>
 
+## 📌 Overview & SEO Insights
 
+Welcome to the **Awesome Conversational AI & Form Builder** repository—the most complete, regularly maintained guide to **conversational forms**, **chat-based survey tools**, **conversational marketing agents**, and **open-source form builders**. 
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Conversational AI & Form Builders**. These tools replace static forms with chat-like interactions—asking questions one at a time, adapting based on answers, and qualifying leads through natural conversation instead of walls of checkboxes.
+Traditional web forms create friction with static walls of inputs and high bounce rates. Modern conversational form builders replace checkboxes and long pages with dynamic, chat-style multi-turn dialogues—asking questions one at a time, branching conditionally based on responses, and qualifying leads conversationally.
 
+Whether you're looking for enterprise SaaS solutions (**Typeform, Drift, Intercom, ManyChat**) or self-hostable, privacy-first open-source engines (**Typebot, HeyForm, Formbricks, Chatwoot, Rasa**), this list covers verified starting prices, free-tier limits, company scale, and GitHub star counts.
 
+### 🔍 Key Capabilities Tracked
+- 🧩 **Visual Flow Builders**: Drag-and-drop conversational decision trees and conditional branching logic.
+- 🤖 **AI-Native Dynamic Questioning**: Natural language form generation (DSPy, LLMs) and adaptive context-aware follow-ups.
+- 📱 **Omnichannel Chat Deployment**: Webchat widgets, WhatsApp Business API, Facebook Messenger, Instagram DMs, Telegram, and Slack.
+- 🛡️ **Self-Hosting & Data Sovereignty**: GDPR/CCPA-compliant self-hosted deployments using Docker, PostgreSQL, and SQLite.
+- 🔌 **Agentic Workflows & Tool Calling**: Model Context Protocol (MCP) clients, webhooks, and direct CRM integrations.
 
-**Examples** include Typeform, Landbot, Tars, SurveySparrow, Drift, Intercom Bots, ManyChat, Botsify, Voiceflow, and Chatfuel (the category leaders).
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [📜 Disclaimer](#-disclaimer)
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, visual flow building, and open conversational form creation—ideal for marketers, product teams, and developers seeking transparent, vendor-independent conversational experiences.
-
-
-
-Contributions welcome! Open an issue or PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global conversational AI and smart form builder sector represents an estimated **$14B–$18B** market across conversational automation, intelligent chatbots, and enterprise data collection software, growing at over 20% CAGR. The industry exhibits a bifurcated market structure: the foundational enterprise AI infrastructure layer is **concentrated** among tech hyperscalers, while the application layer of conversational form builders and conversational marketing tools is **highly fragmented** with intense competition across self-serve SMB tools, point solutions, and generative AI workflow builders.
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Company Scale (Valuation / Revenue) | Starting Price | Free Tier / Trial Limit | Key Focus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,7 +68,7 @@ The global conversational AI and smart form builder sector represents an estimat
 | **[Chatfuel](https://chatfuel.com/)** | **~$4M–$8M ARR** ($1.5M funding raised) | **$18/month** (Fuely plan, billed annually; or $39/mo billed monthly) | **7-day free trial** with access to core templates and trial AI message credits (no permanent free tier) | Omnichannel e-commerce & social messaging bot builder for WhatsApp & IG |
 | **[Botsify](https://botsify.com/)** | **~$200K–$1M ARR** (Bootstrapped micro-SaaS) | **$49/month** (Basic plan for website & Facebook bots) | **Free trial**: 100 test message credits and basic builder access (no permanent free tier) | Multi-platform chatbot builder with live chat fallback and form collection |
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   **Open-source customer engagement suite and alternative to Intercom and Drift** (MIT) — **omnichannel conversational platform** featuring website live chat widgets, lead qualification bots, shared inbox, interactive conversation forms, and CRM integrations across WhatsApp, Twitter, and Facebook.
@@ -108,54 +121,47 @@ The global conversational AI and smart form builder sector represents an estimat
 - **[OraOne](https://github.com/OraOneHQ/oraone-web)** [![GitHub stars](https://img.shields.io/github/stars/OraOneHQ/oraone-web?style=social&color=white)](https://github.com/OraOneHQ/oraone-web/stargazers)  
   **Open-source AI Chat & WhatsApp agent platform** (AGPL-3.0) — **RAG knowledge base, embeddable chat widget, lead qualification forms**, self-hosted authentication, analytics, and public REST API for automated conversational workflows.
 
-**Frameworks for building custom systems**: Combine **Typebot** or **HeyForm** for visual conversational flows with **Formbricks** or **OpnForm** for structured form building, **Chatwoot** or **ChatbotX** for omnichannel messaging and live takeover, **Rasa** for enterprise conversational AI slot-filling, and **TalkForm.AI** or **AutoForm** for generative prompt-to-form creation.
+💡 **Frameworks for building custom systems**: Combine **Typebot** or **HeyForm** for visual conversational flows with **Formbricks** or **OpnForm** for structured form building, **Chatwoot** or **ChatbotX** for omnichannel messaging and live takeover, **Rasa** for enterprise conversational AI slot-filling, and **TalkForm.AI** or **AutoForm** for generative prompt-to-form creation.
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcome! Help make this the most up-to-date and comprehensive directory:
 
-## How to Contribute
+1. 🍴 **Fork the repo**.
+2. ✍️ **Add or edit entries** in `README.md` following the standard table/badge format.
+3. 📝 **Include details**: Tool name, link, concise factual description, pricing, and license.
+4. 🚀 **Submit a Pull Request** with a brief summary of additions or updates.
 
+🌟 **Star this repository** if you found it useful for your conversational AI stack!
 
+## 💖 Support & Sponsorship
 
-1. Fork the repo.
+Thank you for visiting and using this repository! If this curated guide helped you discover tools, save hours of research, or build better conversational workflows, please consider supporting the project:
 
-2. Add/edit entries in `README.md` (follow existing format).
+- ⭐ **Star this repo** to help others discover it on GitHub.
+- 🍴 **Fork and share** it with your developer, marketing, and product communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing research and updates, check out the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+Your support keeps this directory independent, accurate, and continuously updated! 🙌
 
-4. Submit PR with a short explanation.
+## ⭐ Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Conversational-AI-Form-Builder&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Conversational-AI-Form-Builder&type=date&legend=top-left)
 
+## 📜 Disclaimer
 
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Conversational form builders handling user data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate consent mechanisms.
-
-- **Open-source conversational forms are mature and production-ready.** Typebot is the most widely adopted open-source Typeform alternative with visual flow building and multi-channel deployment . ChatbotX provides **15+ node types, AI agents, live chat, CRM, and MCP support** across **7 messaging channels** . **These are genuine alternatives to Typeform and ManyChat.**
-
-- **The "conversational" distinction matters for completion rates.** Traditional forms present walls of checkboxes and text fields—users face **form fatigue** and drop off . Conversational forms ask **one question at a time** with **adaptive follow-ups**, making the experience feel like **chatting with a real person** . **Higher engagement, richer responses, better data.**
-
-- **AI-powered form creation is the emerging frontier.** TalkForm.AI, DialogFlow-Form, and AutoForm represent a shift from **drag-and-drop form building** to **describe-what-you-want form generation** . **The form builder becomes an AI assistant that understands intent.**
-
-- **Omnichannel is the new baseline.** ChatbotX connects **WhatsApp, Facebook, Instagram, Telegram, Zalo, Email, and Webchat** from a single flow . **Forms are no longer just web pages** —they're conversations that happen wherever your customers are.
-
-- **MCP integration is arriving in form builders.** ChatbotX supports **MCP-compatible clients** for building agentic workflows . **This enables forms to be orchestrated by AI agents** —a form submission can trigger agent actions, not just database writes.
-
-- Self-hosted open-source solutions require proper deployment configuration, database management, and ongoing maintenance. **Form data is often PII** —encryption at rest and access controls are non-negotiable.
-
-
+- 📌 This is a **community-curated** list — not exhaustive and not an official product endorsement.
+- 🔒 **Data Protection & Compliance**: Conversational form builders handling personal user information must comply with data privacy laws (GDPR, CCPA, HIPAA, etc.) and include necessary consent banners.
+- ⚡ **Production-Ready Open-Source**: Open-source solutions like Typebot, HeyForm, Formbricks, and Chatwoot are enterprise-grade alternatives to proprietary SaaS giants.
+- 📈 **Conversational Completion Rates**: Multi-turn, chat-style forms overcome form fatigue by asking one question at a time with smart skip logic.
+- 🤖 **Agentic & AI-Native Frontier**: The ecosystem is rapidly transitioning toward prompt-generated forms and autonomous agentic workflows orchestrated via protocols like MCP.
+- 🛠️ **Self-Hosting Best Practices**: Form submissions contain valuable lead and customer data—ensure robust database encryption at rest, secure backups, and firewall protection.
 
 ---
 
+<div align="center">
 
+**Crafted with ❤️ for marketers, product teams, and developers building the future of conversational forms.**  
+*Let's make Conversational AI & Form Builders more open, data-driven, and engaging.*
 
-**Made for marketers, product teams, and developers building transparent conversational form solutions.**  
-
-Let's make Conversational AI & Form Builders more open, data-driven, and conversational.
+</div>
