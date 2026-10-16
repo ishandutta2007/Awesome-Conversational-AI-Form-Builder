@@ -30,155 +30,85 @@ Contributions welcome! Open an issue or PR to add/update entries. Keep descripti
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global conversational AI and smart form builder sector represents an estimated **$14B–$18B** market across conversational automation, intelligent chatbots, and enterprise data collection software, growing at over 20% CAGR. The industry exhibits a bifurcated market structure: the foundational enterprise AI infrastructure layer is **concentrated** among tech hyperscalers, while the application layer of conversational form builders and conversational marketing tools is **highly fragmented** with intense competition across self-serve SMB tools, point solutions, and generative AI workflow builders.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Typeform](https://www.typeform.com/)**  
-
-  **The category-defining conversational form builder.** One question at a time, beautiful design, logic jumps, and hidden fields. The benchmark most open-source alternatives are measured against.
-
-
-
-- **[Landbot](https://landbot.io/)**  
-
-  **Chat-first form and lead qualification platform** with a visual flow builder, WhatsApp integration, and live chat handoff. Strong for sales qualification.
-
-
-
-- **[Tars](https://tars.com/)**  
-
-  **Conversational landing pages and chatbots** that qualify leads and book meetings. Focused on marketing conversion rather than generic form building.
-
-
-
-- **[SurveySparrow](https://surveysparrow.com/)**  
-
-  **Conversational surveys** with chat-like UI, NPS/CSAT measurement, and multi-channel distribution. Bridges form and survey use cases.
-
-
-
-- **[Drift](https://www.drift.com/)**  
-
-  **Conversational marketing platform** with AI chatbot, meeting scheduling, and pipeline acceleration. The enterprise standard for B2B conversational marketing.
-
-
-
-- **[Intercom Bots](https://www.intercom.com/)**  
-
-  **AI-powered customer service and lead qualification bots** integrated into the Intercom platform. Strong for support-then-sales workflows.
-
-
-
-- **[ManyChat](https://manychat.com/)**  
-
-  **Messenger and Instagram chatbot platform** with visual flow builder, comment-to-DM automation, and e-commerce integrations. The standard for social messaging automation.
-
-
-
-- **[Voiceflow](https://www.voiceflow.com/)**  
-
-  **Conversational AI design platform** for building chat and voice agents. Features visual conversation design, prototyping, and deployment across channels.
-
-
-
-- **[Chatfuel](https://chatfuel.com/)**  
-
-  **No-code Messenger, Instagram, and WhatsApp bot builder** with AI-powered responses and commerce features.
-
-
-
-- **[Botsify](https://botsify.com/)**  
-
-  **AI chatbot platform** for websites, Messenger, and WhatsApp with drag-and-drop flow builder.
-
-
+| Platform | Company Scale (Valuation / Revenue) | Starting Price | Free Tier / Trial Limit | Key Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Intercom Bots](https://www.intercom.com/)** | **$3.6B valuation** (Acquired by Salesforce for $3.6B; ~$400M ARR) | **$29/seat/month** (Essential plan, billed annually) | **14-day free trial** with full access to inbox, Fin AI agent, and workflow add-ons (no permanent free tier) | AI customer service & lead qualification platform with outcome-based AI agent (Fin) |
+| **[Drift](https://www.drift.com/)** | **$1B+ valuation** (Acquired by Vista Equity Partners / merged with Salesloft) | **$2,500/month** (Premium tier, billed annually) | **Sales-assisted demo only** (no self-serve free plan or public trial; custom PoC available via sales) | Enterprise conversational marketing, pipeline acceleration & meeting scheduling |
+| **[Typeform](https://www.typeform.com/)** | **$935M valuation** (Prior Series C valuation; acquired by Bending Spoons; ~$70M+ ARR) | **$28/month** (Basic plan, billed annually; or $39/mo billed monthly) | **Free-forever plan**: 10 responses/month across unlimited forms, 1 user seat | The category-defining conversational "one question at a time" form builder |
+| **[Voiceflow](https://www.voiceflow.com/)** | **$105M valuation** (~$38M total funding raised; ~$15M–$30M ARR) | **$60/month** (Pro plan with 3 editor seats included) | **Free-forever plan**: Testing sandbox with one-time credit grant, up to 2 agents (non-production) | Collaborative conversational AI design, prototyping, and multi-agent deployment |
+| **[ManyChat](https://manychat.com/)** | **$163M+ funding / ~$50M+ ARR** ($140M Series B by Summit Partners in 2025) | **$14/month** (Essential tier, billed annually; or $17/mo billed monthly) | **Free-forever plan**: Capped at 25 monthly active contacts, 2 channels, and up to 4 live automations | Social messaging automation for Instagram, WhatsApp, Messenger & TikTok |
+| **[SurveySparrow](https://surveysparrow.com/)** | **~$46M ARR** ($1.4M seed funding raised; highly capital-efficient) | **$19/month** (Basic plan, billed annually) | **Free-forever plan**: 75 responses/quarter, 1 user, up to 3 active surveys (plus 14-day full-featured trial) | Conversational surveys, employee pulse, and omnichannel customer feedback |
+| **[Landbot](https://landbot.io/)** | **~$7M–$10M ARR** ($10.2M total funding raised) | **€40/month** (Starter plan; ~€36/month billed annually) | **Free-forever Sandbox plan**: 100 chats/month, 1 user seat, web channel only | Visual drag-and-drop chat-first form builder with WhatsApp & web chatbots |
+| **[Tars](https://tars.com/)** | **~$7M–$15M ARR** (Bootstrapped / seed accelerator backing) | **$499/month** (Business tier with live chat & CRM integrations) | **Free-forever plan**: 50 conversations/month, 5 knowledge bases, basic LLMs | Conversational landing pages and AI agents tailored for lead conversion |
+| **[Chatfuel](https://chatfuel.com/)** | **~$4M–$8M ARR** ($1.5M funding raised) | **$18/month** (Fuely plan, billed annually; or $39/mo billed monthly) | **7-day free trial** with access to core templates and trial AI message credits (no permanent free tier) | Omnichannel e-commerce & social messaging bot builder for WhatsApp & IG |
+| **[Botsify](https://botsify.com/)** | **~$200K–$1M ARR** (Bootstrapped micro-SaaS) | **$49/month** (Basic plan for website & Facebook bots) | **Free trial**: 100 test message credits and basic builder access (no permanent free tier) | Multi-platform chatbot builder with live chat fallback and form collection |
 
 ## Open-Source GitHub Projects
 
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+  **Open-source customer engagement suite and alternative to Intercom and Drift** (MIT) — **omnichannel conversational platform** featuring website live chat widgets, lead qualification bots, shared inbox, interactive conversation forms, and CRM integrations across WhatsApp, Twitter, and Facebook.
 
+- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
+  **Open source machine learning framework for conversational software** (Apache-2.0) — **Rasa Forms (FormValidationAction)** provides industrial-grade slot filling and conversational form logic, allowing bots to collect information via dynamic multi-turn dialogue with fallbacks, validations, and contextual disambiguation.
 
-- **[Typebot](https://github.com/baptisteArno/typebot.io)**  
+- **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+  **The open-source conversational AI platform** (AGPL-3.0 / Botpress Open License) — **visual flow builder with rich conversational forms and slot extraction**, NLU engine, multi-channel deployment (webchat, WhatsApp, Slack, Teams), and seamless API/webhook integrations.
 
-  **Visual builder for creating conversational apps and lead flows** (AGPL-3.0) . **The most widely adopted open-source Typeform alternative** — **visual drag-and-drop flow builder**, **conditional logic**, **multi-channel deployment** (web, WhatsApp, Facebook Messenger, Slack), **analytics**, and **self-hostable via Docker** . **Typebot Cloud** provides managed hosting with a free tier . **The reference implementation for open-source conversational forms** .
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+  **Open-source survey and conversational form suite** (AGPL-3.0) — **modular, privacy-first Typeform alternative** with in-app conversational micro-surveys, web forms, conditional branching logic, user targeting, and multi-channel delivery built with Next.js and TypeScript.
 
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+  **Visual builder for creating conversational apps and lead flows** (AGPL-3.0) — **the reference implementation for open-source conversational forms** with visual drag-and-drop flow builder, conditional logic, multi-channel deployment (web, WhatsApp, Facebook Messenger, Slack), analytics, and self-hostable Docker architecture.
 
+- **[HeyForm](https://github.com/heyform/heyform)** [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers)  
+  **Open-source conversational form builder** (AGPL-3.0) — **modern, interactive form creation platform** with smooth conversational UX, customizable layouts, logic jumps, 20+ question blocks, team collaboration, and self-hostable deployment with Docker Compose.
 
-- **[ChatbotX](https://sourceforge.net/projects/chatbotx/)**  
+- **[OpnForm](https://github.com/OpnForm/OpnForm)** [![GitHub stars](https://img.shields.io/github/stars/OpnForm/OpnForm?style=social&color=white)](https://github.com/OpnForm/OpnForm/stargazers)  
+  **Simple and open-source form builder** (AGPL-3.0) — **no-code builder with infinite fields and submissions**, 20+ input types, embed anywhere, email notifications, hidden fields, form passwords, URL pre-fill, Slack integration, webhooks, form logic, custom colors, and submission limits (built with Laravel + Vue.js + TailwindCSS).
 
-  **Open-source omnichannel chatbot platform** (Apache-2.0) — **a modern alternative to ManyChat for agencies and businesses that want full control through self-hosting, white-labeling, and reselling** . **Features**: **visual flow builder with 15+ node types**, **AI agent** using OpenAI, DeepSeek, or Gemini, **live chat inbox** with human takeover, **contact CRM** with tags and segmentation, **broadcasts**, **sequences**, **A/B testing**, **webhooks & HTTP**, **comment-to-DM**, and **APIs, CLI, and MCP** for building agentic workflows . **Channels**: **WhatsApp, Facebook, Instagram, Telegram, Zalo, Email, and Webchat** with rich messaging support (buttons, quick replies, catalogs, carousel cards) . **The most feature-complete open-source ManyChat alternative** .
+- **[Conversational Form](https://github.com/space10-community/conversational-form)** [![GitHub stars](https://img.shields.io/github/stars/space10-community/conversational-form?style=social&color=white)](https://github.com/space10-community/conversational-form/stargazers)  
+  **Turning web forms into conversations** (MIT) — **open-source concept and framework by SPACE10** that automatically transforms traditional HTML `<form>` elements into dynamic, chat-based conversational UIs with zero server-side setup required.
 
+- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
+  **Free open-source alternative to TypeForm, TellForm, or Google Forms** (MIT) — **API-first form builder** with multi-language support, 11 question types, editable start and end pages, export submissions to XLS/JSON/CSV, native analytics, embeddable forms, webhooks, and PostgreSQL/SQLite support.
 
+- **[ChatbotX](https://github.com/ChatbotXIO/ChatbotX)** [![GitHub stars](https://img.shields.io/github/stars/ChatbotXIO/ChatbotX?style=social&color=white)](https://github.com/ChatbotXIO/ChatbotX/stargazers)  
+  **Open-source omnichannel chatbot platform** (Apache-2.0) — **a modern alternative to ManyChat for agencies and self-hosters** with visual flow builder (15+ node types), AI agent support (OpenAI, DeepSeek, Gemini), live chat inbox with human takeover, contact CRM, broadcasts, sequences, comment-to-DM, MCP support, and integrations across WhatsApp, Instagram, Telegram, and Webchat.
 
-- **[OhMyForm](https://github.com/Allowebs/ohmyform)**  
+- **[Forms.md](https://github.com/formsmd/formsmd)** [![GitHub stars](https://img.shields.io/github/stars/formsmd/formsmd?style=social&color=white)](https://github.com/formsmd/formsmd/stargazers)  
+  **Developer-first, open-source Typeform alternative** (MIT) — **create multi-step conversational forms using Markdown-like syntax and visual editor**, offering programmable workflows, custom logic jumps, and self-hosted control.
 
-  **Free open source alternative to TypeForm, TellForm, or Google Forms** (MIT) — **multi-language support**, **11 question types**, **editable start and end pages**, **export submissions to XLS, JSON, or CSV**, **native analytics**, **embeddable forms**, **forms as a service API**, **customizable notifications**, **webhooks**, and **PostgreSQL/SQLite support** . **Deployable with Heroku and DockerHub**. **The most mature open-source form builder with API-first design** .
+- **[QuillForms](https://github.com/quillforms/quillforms)** [![GitHub stars](https://img.shields.io/github/stars/quillforms/quillforms?style=social&color=white)](https://github.com/quillforms/quillforms/stargazers)  
+  **Open Source TypeForm Alternative Based on React JS and TypeScript** (GPL-3.0) — **conversational multi-step form renderer** delivering a pixel-perfect Typeform clone experience with rich themes, animations, jump logic, and custom block extendability.
 
+- **[Formizee](https://github.com/formizee/formizee)** [![GitHub stars](https://img.shields.io/github/stars/formizee/formizee?style=social&color=white)](https://github.com/formizee/formizee/stargazers)  
+  **Open-source form backend and submission infrastructure** (Apache-2.0) — **self-hostable alternative to Formspree** built with Next.js, TypeScript, Tailwind CSS, and LibSQL/Turso, enabling seamless conversational or static form data collection, spam filtering, and webhook dispatches.
 
+- **[TalkForm.AI](https://github.com/nsbradford/TalkFormAI)** [![GitHub stars](https://img.shields.io/github/stars/nsbradford/TalkFormAI?style=social&color=white)](https://github.com/nsbradford/TalkFormAI/stargazers)  
+  **Create and fill forms with chat** (MIT) — **AI-native form creation where users describe forms in natural language**, LLMs infer field types, and users can fill the forms conversationally while preserving structured tabular data.
 
-- **[OpnForm](https://github.com/icrewsystemsofficial/opnform)**  
+- **[DialogFlow-Form](https://github.com/Haseeb-Arshad/dialogflow-form)** [![GitHub stars](https://img.shields.io/github/stars/Haseeb-Arshad/dialogflow-form?style=social&color=white)](https://github.com/Haseeb-Arshad/dialogflow-form/stargazers)  
+  **Dynamic conversational forms and surveys powered by LLMs** (MIT) — **prompt-based creation and adaptive AI questioning** that maintains a conversational tone, handles follow-ups, and logs structured responses via Vue.js and OpenAI models.
 
-  **Simple and open-source form builder** (AGPL-3.0) — **no-code builder with infinite fields and submissions**, **20+ input types** (text, date, URL, phone, email, checkboxes, select, multi-select, number, star ratings, file uploads), **embed anywhere**, **email notifications**, **hidden fields**, **form passwords**, **URL pre-fill**, **Slack integration**, **webhooks**, **form logic**, **custom colors and code**, **CAPTCHA protection**, and **submission limits** . **Laravel + Vue.js + TailwindCSS**. **The most feature-rich open-source Typeform alternative** .
+- **[AutoForm](https://github.com/FireBird-Technologies/AutoForm)** [![GitHub stars](https://img.shields.io/github/stars/FireBird-Technologies/AutoForm?style=social&color=white)](https://github.com/FireBird-Technologies/AutoForm/stargazers)  
+  **AI Intelligent form builder** (Apache-2.0) — **generates smart forms with skip logic, 20+ question types, conditional validation, and analytics** from natural language prompts using React, TypeScript, FastAPI, and DSPy.
 
+- **[OraOne](https://github.com/OraOneHQ/oraone-web)** [![GitHub stars](https://img.shields.io/github/stars/OraOneHQ/oraone-web?style=social&color=white)](https://github.com/OraOneHQ/oraone-web/stargazers)  
+  **Open-source AI Chat & WhatsApp agent platform** (AGPL-3.0) — **RAG knowledge base, embeddable chat widget, lead qualification forms**, self-hosted authentication, analytics, and public REST API for automated conversational workflows.
 
-
-- **[QuillForms](https://repos.ecosyste.ms/topics/typeform-open-source)**  
-
-  **Open Source TypeForm Alternative Based on React JS and Typescript** (open-source) — **564 GitHub stars** and **116 forks** . **Conversational multi-step form** with **best-in-class Typeform clone experience** . **The most polished open-source conversational form UI** .
-
-
-
-- **[FlexForms](https://socket.dev/go/package/github.com/biohackerellie/flexforms)**  
-
-  **Easy-to-use form builder with drag-and-drop creation** (open-source) — **single Go binary with embedded React** for **zero-dependency deployment**, **SQLite or PostgreSQL backends**, **secure authentication**, **end-to-end encryption**, **GDPR-compliant storage**, and **audit logging** . **The most deployment-friendly open-source form builder** — **one binary, one database, done** .
-
-
-
-- **[TalkForm.AI](https://github.com/nsbradford/TalkFormAI)**  
-
-  **Create and fill forms with chat** (open-source) — **chat to create**, **chat to fill**, **field types inferred automatically by an LLM**, and **structured data preserved** for analysis . **The most AI-native approach to form creation** — **describe the form in natural language, the LLM builds it** .
-
-
-
-- **[DialogFlow-Form](https://github.com/Haseeb-Arshad/dialogflow-form)**  
-
-  **AI-native platform to create dynamic, conversational forms and surveys** (open-source) — **prompt-based creation** (write natural language prompts, AI structures the conversational flow), **AI-powered interaction** (adapt questions, ask follow-ups, maintain friendly tone), **analytics dashboard**, **form personalization**, **AI configuration** (model selection, temperature, response length), **form scheduling**, and **status indicators** . **Vue.js + GPT integration**. **The most customizable AI form builder** .
-
-
-
-- **[AutoForm](https://github.com/FireBird-Technologies/AutoForm)**  
-
-  **AI Intelligent form builder** (open-source) — **create forms from natural language descriptions in seconds**, **20+ question types** (short/long text, email, phone, date/time, multiple choice, checkboxes, ratings, matrix, ranking, file upload, signature, payment, wallet connect), **smart logic** (conditional rules, skip logic, dynamic fields), **analytics and insights**, **shareable links**, and **full customization** . **React + TypeScript + FastAPI + DSPy**. **The most comprehensive AI-powered open-source form builder** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Formzy](https://repos.ecosyste.ms/topics/typeform)** — React alternative for building TypeForm style forms (open-source) . **The lightweight React-native option** .
-
-- **[Formizee](https://repos.ecosyste.ms/topics/typeform)** — Open source alternative of Formspree (open-source) . **The backend-focused form handler** .
-
-- **[OraOne](https://github.com/OraOneHQ/oraone-web)** — AI Chat & WhatsApp agent platform (open-source) — **RAG knowledge base**, **embeddable chat widget**, **lead qualification & capture**, **self-hosted authentication**, **analytics**, and **public REST API** . **The most production-ready open-source chat agent platform** .
-
-- **[ChatbotX MCP](https://sourceforge.net/projects/chatbotx/)** — MCP-compatible clients for building advanced agentic workflows . **The emerging standard for AI agent integration** .
-
-- Community **n8n** workflows for form submission automation and lead routing.
-
-
-
-**Frameworks for building custom systems**: Combine **Typebot** for visual conversational flows with **OpnForm** or **OhMyForm** for structured form building, **ChatbotX** for omnichannel messaging, **TalkForm.AI** or **AutoForm** for AI-powered form creation, and **FlexForms** for lightweight self-hosted deployment — creating a comprehensive conversational form and chatbot stack.
+**Frameworks for building custom systems**: Combine **Typebot** or **HeyForm** for visual conversational flows with **Formbricks** or **OpnForm** for structured form building, **Chatwoot** or **ChatbotX** for omnichannel messaging and live takeover, **Rasa** for enterprise conversational AI slot-filling, and **TalkForm.AI** or **AutoForm** for generative prompt-to-form creation.
 
 
 
