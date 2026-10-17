@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Form-Builder?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Form-Builder?style=for-the-badge&logo=apachespark&color=f59e0b" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Conversational-AI-Form-Builder?style=for-the-badge&color=10b981" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Conversational-AI-Form-Builder?style=for-the-badge&color=ef4444" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Form-Builder/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"/></a>
@@ -28,7 +28,7 @@ Welcome to the **Awesome Conversational AI & Form Builder** repository—the mos
 
 Traditional web forms create friction with static walls of inputs and high bounce rates. Modern conversational form builders replace checkboxes and long pages with dynamic, chat-style multi-turn dialogues—asking questions one at a time, branching conditionally based on responses, and qualifying leads conversationally.
 
-Whether you're looking for enterprise SaaS solutions (**Typeform, Drift, Intercom, ManyChat**) or self-hostable, privacy-first open-source engines (**Typebot, HeyForm, Formbricks, Chatwoot, Rasa**), this list covers verified starting prices, free-tier limits, company scale, and GitHub star counts.
+Whether you're looking for enterprise SaaS solutions (**Typeform, Drift, Intercom, ManyChat**) or self-hostable, privacy-first open-source engines (**Typebot, HeyForm, Formbricks, Chatwoot, Rasa**), this list covers verified starting prices, free-tier limits, company scale, and GitHub Stars_Counts.
 
 ### 🔍 Key Capabilities Tracked
 - 🧩 **Visual Flow Builders**: Drag-and-drop conversational decision trees and conditional branching logic.
@@ -70,55 +70,55 @@ The global conversational AI and smart form builder sector represents an estimat
 
 ## 💻 Open-Source GitHub Projects
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   **Open-source customer engagement suite and alternative to Intercom and Drift** (MIT) — **omnichannel conversational platform** featuring website live chat widgets, lead qualification bots, shared inbox, interactive conversation forms, and CRM integrations across WhatsApp, Twitter, and Facebook.
 
-- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
+- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
   **Open source machine learning framework for conversational software** (Apache-2.0) — **Rasa Forms (FormValidationAction)** provides industrial-grade slot filling and conversational form logic, allowing bots to collect information via dynamic multi-turn dialogue with fallbacks, validations, and contextual disambiguation.
 
-- **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+- **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
   **The open-source conversational AI platform** (AGPL-3.0 / Botpress Open License) — **visual flow builder with rich conversational forms and slot extraction**, NLU engine, multi-channel deployment (webchat, WhatsApp, Slack, Teams), and seamless API/webhook integrations.
 
-- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
   **Open-source survey and conversational form suite** (AGPL-3.0) — **modular, privacy-first Typeform alternative** with in-app conversational micro-surveys, web forms, conditional branching logic, user targeting, and multi-channel delivery built with Next.js and TypeScript.
 
-- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
   **Visual builder for creating conversational apps and lead flows** (AGPL-3.0) — **the reference implementation for open-source conversational forms** with visual drag-and-drop flow builder, conditional logic, multi-channel deployment (web, WhatsApp, Facebook Messenger, Slack), analytics, and self-hostable Docker architecture.
 
-- **[HeyForm](https://github.com/heyform/heyform)** [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers)  
+- **[HeyForm](https://github.com/heyform/heyform)** [![GitHub_Stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers)  
   **Open-source conversational form builder** (AGPL-3.0) — **modern, interactive form creation platform** with smooth conversational UX, customizable layouts, logic jumps, 20+ question blocks, team collaboration, and self-hostable deployment with Docker Compose.
 
-- **[OpnForm](https://github.com/OpnForm/OpnForm)** [![GitHub stars](https://img.shields.io/github/stars/OpnForm/OpnForm?style=social&color=white)](https://github.com/OpnForm/OpnForm/stargazers)  
+- **[OpnForm](https://github.com/OpnForm/OpnForm)** [![GitHub_Stars](https://img.shields.io/github/stars/OpnForm/OpnForm?style=social&color=white)](https://github.com/OpnForm/OpnForm/stargazers)  
   **Simple and open-source form builder** (AGPL-3.0) — **no-code builder with infinite fields and submissions**, 20+ input types, embed anywhere, email notifications, hidden fields, form passwords, URL pre-fill, Slack integration, webhooks, form logic, custom colors, and submission limits (built with Laravel + Vue.js + TailwindCSS).
 
-- **[Conversational Form](https://github.com/space10-community/conversational-form)** [![GitHub stars](https://img.shields.io/github/stars/space10-community/conversational-form?style=social&color=white)](https://github.com/space10-community/conversational-form/stargazers)  
+- **[Conversational Form](https://github.com/space10-community/conversational-form)** [![GitHub_Stars](https://img.shields.io/github/stars/space10-community/conversational-form?style=social&color=white)](https://github.com/space10-community/conversational-form/stargazers)  
   **Turning web forms into conversations** (MIT) — **open-source concept and framework by SPACE10** that automatically transforms traditional HTML `<form>` elements into dynamic, chat-based conversational UIs with zero server-side setup required.
 
-- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
+- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub_Stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
   **Free open-source alternative to TypeForm, TellForm, or Google Forms** (MIT) — **API-first form builder** with multi-language support, 11 question types, editable start and end pages, export submissions to XLS/JSON/CSV, native analytics, embeddable forms, webhooks, and PostgreSQL/SQLite support.
 
-- **[ChatbotX](https://github.com/ChatbotXIO/ChatbotX)** [![GitHub stars](https://img.shields.io/github/stars/ChatbotXIO/ChatbotX?style=social&color=white)](https://github.com/ChatbotXIO/ChatbotX/stargazers)  
+- **[ChatbotX](https://github.com/ChatbotXIO/ChatbotX)** [![GitHub_Stars](https://img.shields.io/github/stars/ChatbotXIO/ChatbotX?style=social&color=white)](https://github.com/ChatbotXIO/ChatbotX/stargazers)  
   **Open-source omnichannel chatbot platform** (Apache-2.0) — **a modern alternative to ManyChat for agencies and self-hosters** with visual flow builder (15+ node types), AI agent support (OpenAI, DeepSeek, Gemini), live chat inbox with human takeover, contact CRM, broadcasts, sequences, comment-to-DM, MCP support, and integrations across WhatsApp, Instagram, Telegram, and Webchat.
 
-- **[Forms.md](https://github.com/formsmd/formsmd)** [![GitHub stars](https://img.shields.io/github/stars/formsmd/formsmd?style=social&color=white)](https://github.com/formsmd/formsmd/stargazers)  
+- **[Forms.md](https://github.com/formsmd/formsmd)** [![GitHub_Stars](https://img.shields.io/github/stars/formsmd/formsmd?style=social&color=white)](https://github.com/formsmd/formsmd/stargazers)  
   **Developer-first, open-source Typeform alternative** (MIT) — **create multi-step conversational forms using Markdown-like syntax and visual editor**, offering programmable workflows, custom logic jumps, and self-hosted control.
 
-- **[QuillForms](https://github.com/quillforms/quillforms)** [![GitHub stars](https://img.shields.io/github/stars/quillforms/quillforms?style=social&color=white)](https://github.com/quillforms/quillforms/stargazers)  
+- **[QuillForms](https://github.com/quillforms/quillforms)** [![GitHub_Stars](https://img.shields.io/github/stars/quillforms/quillforms?style=social&color=white)](https://github.com/quillforms/quillforms/stargazers)  
   **Open Source TypeForm Alternative Based on React JS and TypeScript** (GPL-3.0) — **conversational multi-step form renderer** delivering a pixel-perfect Typeform clone experience with rich themes, animations, jump logic, and custom block extendability.
 
-- **[Formizee](https://github.com/formizee/formizee)** [![GitHub stars](https://img.shields.io/github/stars/formizee/formizee?style=social&color=white)](https://github.com/formizee/formizee/stargazers)  
+- **[Formizee](https://github.com/formizee/formizee)** [![GitHub_Stars](https://img.shields.io/github/stars/formizee/formizee?style=social&color=white)](https://github.com/formizee/formizee/stargazers)  
   **Open-source form backend and submission infrastructure** (Apache-2.0) — **self-hostable alternative to Formspree** built with Next.js, TypeScript, Tailwind CSS, and LibSQL/Turso, enabling seamless conversational or static form data collection, spam filtering, and webhook dispatches.
 
-- **[TalkForm.AI](https://github.com/nsbradford/TalkFormAI)** [![GitHub stars](https://img.shields.io/github/stars/nsbradford/TalkFormAI?style=social&color=white)](https://github.com/nsbradford/TalkFormAI/stargazers)  
+- **[TalkForm.AI](https://github.com/nsbradford/TalkFormAI)** [![GitHub_Stars](https://img.shields.io/github/stars/nsbradford/TalkFormAI?style=social&color=white)](https://github.com/nsbradford/TalkFormAI/stargazers)  
   **Create and fill forms with chat** (MIT) — **AI-native form creation where users describe forms in natural language**, LLMs infer field types, and users can fill the forms conversationally while preserving structured tabular data.
 
-- **[DialogFlow-Form](https://github.com/Haseeb-Arshad/dialogflow-form)** [![GitHub stars](https://img.shields.io/github/stars/Haseeb-Arshad/dialogflow-form?style=social&color=white)](https://github.com/Haseeb-Arshad/dialogflow-form/stargazers)  
+- **[DialogFlow-Form](https://github.com/Haseeb-Arshad/dialogflow-form)** [![GitHub_Stars](https://img.shields.io/github/stars/Haseeb-Arshad/dialogflow-form?style=social&color=white)](https://github.com/Haseeb-Arshad/dialogflow-form/stargazers)  
   **Dynamic conversational forms and surveys powered by LLMs** (MIT) — **prompt-based creation and adaptive AI questioning** that maintains a conversational tone, handles follow-ups, and logs structured responses via Vue.js and OpenAI models.
 
-- **[AutoForm](https://github.com/FireBird-Technologies/AutoForm)** [![GitHub stars](https://img.shields.io/github/stars/FireBird-Technologies/AutoForm?style=social&color=white)](https://github.com/FireBird-Technologies/AutoForm/stargazers)  
+- **[AutoForm](https://github.com/FireBird-Technologies/AutoForm)** [![GitHub_Stars](https://img.shields.io/github/stars/FireBird-Technologies/AutoForm?style=social&color=white)](https://github.com/FireBird-Technologies/AutoForm/stargazers)  
   **AI Intelligent form builder** (Apache-2.0) — **generates smart forms with skip logic, 20+ question types, conditional validation, and analytics** from natural language prompts using React, TypeScript, FastAPI, and DSPy.
 
-- **[OraOne](https://github.com/OraOneHQ/oraone-web)** [![GitHub stars](https://img.shields.io/github/stars/OraOneHQ/oraone-web?style=social&color=white)](https://github.com/OraOneHQ/oraone-web/stargazers)  
+- **[OraOne](https://github.com/OraOneHQ/oraone-web)** [![GitHub_Stars](https://img.shields.io/github/stars/OraOneHQ/oraone-web?style=social&color=white)](https://github.com/OraOneHQ/oraone-web/stargazers)  
   **Open-source AI Chat & WhatsApp agent platform** (AGPL-3.0) — **RAG knowledge base, embeddable chat widget, lead qualification forms**, self-hosted authentication, analytics, and public REST API for automated conversational workflows.
 
 💡 **Frameworks for building custom systems**: Combine **Typebot** or **HeyForm** for visual conversational flows with **Formbricks** or **OpnForm** for structured form building, **Chatwoot** or **ChatbotX** for omnichannel messaging and live takeover, **Rasa** for enterprise conversational AI slot-filling, and **TalkForm.AI** or **AutoForm** for generative prompt-to-form creation.
